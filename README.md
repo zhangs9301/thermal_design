@@ -1,4 +1,4 @@
-## Welcome to Thermal Design Principle
+## 热力设计原则 Thermal Design Principle
 
 1. 设计是一个迭代的过程，没有最好，只有更好，任何时候都是这样。
 
