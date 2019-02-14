@@ -4,38 +4,18 @@
 
 2. 掌握本质规律，对复杂问题做出抽象和简化，是一种设计。顶级的设计师提规律，二流的设计师用规律分析问题，三流的设计师只有不管任何条件、任何变化，无差别地抄袭或套用别人推好的公式、别人编好的程序、别人分析好的结果，这个时候，他的职责不过是一个仿真员，都不能称为设计师。
 
-You can use the [editor on GitHub](https://github.com/zhangs9301/thermal_design_principle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+设计依据规范
+1. 城镇供热系统节能技术规范
+http://www.zzguifan.com/webarbs/book/20338/589559.shtml
+2. 绿色建筑评价标准
+http://www.zzguifan.com/webarbs/book/65238/1257266.shtml
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+经典文献
+1. 全球供热现状及对我国的启示
+https://mp.weixin.qq.com/s/9MuOOfX4dkIf3qAWHtkUyQ
 
-### Markdown
+支持与联系
+@Eric Chang
+Mail:zhangs10@qq.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangs9301/thermal_design_principle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
